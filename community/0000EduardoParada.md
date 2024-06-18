@@ -1,0 +1,15 @@
+# Eduardo Parada
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardoparada-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eduardo-parada/)
+[![GitHub](https://img.shields.io/badge/GitHub-eduardoparada-black?style=flat-square&logo=github)](https://github.com/eduardoparada)
+[![DIO](https://img.shields.io/badge/DIO-eduardoparada-green?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDI4MCI+PHBhdGggZD0iTTEwMDIgMjM4YzY1IDAgMTE4LTUzIDExOC0xMThTMTA2NyA0MiA5MDIgNDJzLTExOCA1My0xMTggMTE4UzM1MyAyNzggNTE4IDI3OGM0OCAwIDkyLTE3IDEyOC00N2wxMDUgMTA1YzU1IDU2IDE0NCA1NiAxOTkgMGw2NC02NGM1NS01NSA1NS0xNDQgMC0xOTlsLTEwNS0xMDVjMzAtMzYgNDctODAgNDctMTI4IDAtNjUtNTMtMTE4LTExOC0xMThzLTExOCA1My0xMTggMTE4YzAgMjIuNiA0LjYgNDQuMiAxMyAxNkg0MTRsLTQ4LTQ4Yy01NS01NS0xNDQtNTUtMTk5IDBsLTY0IDY0Yy01NSA1NS01NSAxNDQgMCAxOTlsMTg3IDE4N0gzMzFjLTIuOCA4LjQtMyA1LjgtMyAxMGMwIDY1IDUzIDExOCAxMTggMTE4czExOC01MyAxMTgtMTE4LTUzLTExOC0xMTgtMTE4Yy01LjggMC0xMS44LjItMTcgMy40bC00NS00NWMyNi4xLTE5LjIgNTYuOC0zNC42IDkwLTQ0LjkgMzEuOS0xMC4xIDY1LTI0LjEgOTctNDEuOWw3MyA3M2MzOSAzOSA5NiAzOSAxMzUgMGw2NC02NGM1NS01NSA1NS0xNDQgMC0xOTlsLTczLTczYzEzLjMtMTggMjUuNS0zNi40IDM2LTU2LjUgNTMtMTAgMTA2LjYtMzggMTUxLjktNzkgNTQuNi00Ny41IDEwMS0xMDcuOCAxMzcgMTc0bC02NiA2NmMtMjMgMjMtNjAuNyAzLjUtNTctMjhsLS4yLS4yYy0xNC4yLTQ5LjQtMTgtMTAyLjgtMS4yLTE1NC4yIDguOC0xMi44IDIxLjMtMjUgMzQuNy0zNiA0MS4xLTQxLjcgODcuNy03MS44IDE0MC43LTg2LjkgNDIuNC0xMi4yIDg2LjgtMTguMyAxMzEuNS0xOC4zIDI1LjMgMCA1MC4zIDIuMyA3NC44IDYuNkw2MzIgNjQuN2MtMzAgMzMtNjMuMyA2NC44LTk3LjggOTMgLTQ3LjEgMzktOTguNiA3Mi4zLTE1NC4xIDk3LjYtMzUuMiAxNC4yLTcyLjUgMjUtMTA5LjcgMzIuNy0xMC42LTE3LjktMjUuNy0zMC41LTQzLjYtMzQtMjMuNi0zLTQ4LjktNC42LTc0LjktNC42LTI5LjcgMC01OC41IDMuNi04NiA5LjMtNTIuMyAxMC4xLTEwMy45IDMwLjUtMTUwLjkgNTkuNC01NC4xIDMyLTk1LjIgNzguOS0xMjAuNCAxMzQuNy04IDE3LjUtMTUuNiAzNS4xLTIyLjYgNTMuOHoiLz48L3N2Zz4=)](https://www.dio.me/users/eduardo_parada94)
+
+## Sobre Mim
+
+Sou engenheiro civil de 30 anos e pós-graduado em análise de dados. Tenho paixão por tecnologia, dados e inovação. Sempre estou em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+Uma curiosidade, minha equipe foi a primeira a ganhar um Datathon na **FIAP**, que se trata de um projeto de conclusão da Pós-Tech e foi uma experiência muito legal!
+Minha principal intenção com tecnologia é encontrar soluções para empreendedores, minha meta é essa e se tudo der certo ficarei milionário com isso kkk
+
+## Estatísticas do GitHub
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoparada&show_icons=true&theme=radical)
